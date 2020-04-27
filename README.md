@@ -3,7 +3,7 @@
 #(https://github.com/billodiallo/)
 
 ## Description
-Habri.. Chap chap is a web application that displays a list of various news sources. On choosing a news source, it will preview the top news articles of the day. Clicking a news article will redirect the user to read it fully from the news source. It achieves this by using the [News API](https://newsapi.org/).
+a web application that displays a list of various news sources. On choosing a news source, it will preview the top news articles of the day. Clicking a news article will redirect the user to read it fully from the news source. It achieves this by using the [News API](https://newsapi.org/).
 
 You can view the site at:[Heroku](https://news-infoapi.herokuapp.com/)
 
