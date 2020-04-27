@@ -75,7 +75,7 @@ As a user I would like to:
 
 ## License
 
-Copyright (c) 2018 emdeechege
+Copyright (c) 2018 billodiallo
 
 ------------
 
