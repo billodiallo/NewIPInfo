@@ -1,4 +1,6 @@
-#!/home/billo/Documents/NewIPInfo/virtual/bin/python3.6
+#!/bin/sh
+'''exec' "/home/billo/Desktop/documents SAUV/NewsAPI/virtual/bin/python3.6" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys

@@ -3,7 +3,6 @@ from . import main
 from flask import render_template,request,redirect,url_for
 from ..request import get_source,article_source,get_category,get_headlines
 
-
 #our views
 @main.route('/')
 def index():
@@ -34,4 +33,3 @@ def category(cat_name):
     cat = cat_name
 
     return render_template('categories.html',title = title,category = category, cat= cat_name)
-© 2020 GitHub, Inc.
